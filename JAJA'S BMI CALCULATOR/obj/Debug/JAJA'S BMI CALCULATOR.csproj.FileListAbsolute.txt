@@ -1,0 +1,10 @@
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\obj\Debug\JAJA'S BMI CALCULATOR.csprojAssemblyReference.cache
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\obj\Debug\JAJA_S_BMI_CALCULATOR.Form1.resources
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\obj\Debug\JAJA_S_BMI_CALCULATOR.Properties.Resources.resources
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\obj\Debug\JAJA'S BMI CALCULATOR.csproj.GenerateResource.cache
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\obj\Debug\JAJA'S BMI CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\bin\Debug\JAJA'S BMI CALCULATOR.exe.config
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\bin\Debug\JAJA'S BMI CALCULATOR.exe
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\bin\Debug\JAJA'S BMI CALCULATOR.pdb
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\obj\Debug\JAJA'S BMI CALCULATOR.exe
+C:\Users\JAJA\Documents\New folder\JAJA'S BMI CALCULATOR\obj\Debug\JAJA'S BMI CALCULATOR.pdb
