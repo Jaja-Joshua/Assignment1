@@ -1,0 +1,10 @@
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\obj\Debug\JAJA'S WORD DISPLAY AND COUNTER.csprojAssemblyReference.cache
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\obj\Debug\JAJA_S_WORD_DISPLAY_AND_COUNTER.Form1.resources
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\obj\Debug\JAJA_S_WORD_DISPLAY_AND_COUNTER.Properties.Resources.resources
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\obj\Debug\JAJA'S WORD DISPLAY AND COUNTER.csproj.GenerateResource.cache
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\obj\Debug\JAJA'S WORD DISPLAY AND COUNTER.csproj.CoreCompileInputs.cache
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\bin\Debug\JAJA'S WORD DISPLAY AND COUNTER.exe.config
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\bin\Debug\JAJA'S WORD DISPLAY AND COUNTER.exe
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\bin\Debug\JAJA'S WORD DISPLAY AND COUNTER.pdb
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\obj\Debug\JAJA'S WORD DISPLAY AND COUNTER.exe
+C:\Users\JAJA\Documents\New folder\JAJA'S WORD DISPLAY AND COUNTER\obj\Debug\JAJA'S WORD DISPLAY AND COUNTER.pdb
